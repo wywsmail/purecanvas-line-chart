@@ -1,1 +1,1 @@
-[chart demo](https://wywsmail.github.io/linechart-test/)
+[chart demo](https://wywsmail.github.io/purecanvas-line-chart/)
